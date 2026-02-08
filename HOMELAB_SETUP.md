@@ -305,10 +305,11 @@ Time: ~23 seconds for full backup cycle
 - [ ] Backup verification checksums
 
 ### GitHub Repository
-- **Name:** docker-stack-backup
+- **Name:** atlas-docker-backups
 - **Owner:** TadMSTR
-- **Status:** Ready to push when scripts are production-ready
-- **Visibility:** Private
+- **URL:** https://github.com/TadMSTR/atlas-docker-backups
+- **Status:** Active - Debian host tested successfully ✅
+- **Visibility:** Public
 
 ## Contact & Documentation
 
